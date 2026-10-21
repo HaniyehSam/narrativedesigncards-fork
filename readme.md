@@ -32,6 +32,12 @@ Ideas for New Cards / Topics:
 
 ### Release 2.0 (Work in Progress)
 
+- repository is now content only (new card table from `cardsimulator`, `cards/cardset.xml`, GitHub Pages deploy workflow)
+- category "examples" renamed to "case studies"
+- new color palette for the categories
+- new case studies: Clair Obscur: Expedition 33, Outer Wilds
+- book links point to the book's Wikipedia article (or its Goodreads page when there is none) instead of Amazon
+
 ### Previous Versions
 
 See: https://bitbucket.org/csongorb/porncreator/src/develop/01_input/narrativedesignporn/
