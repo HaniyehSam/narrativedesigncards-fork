@@ -6,32 +6,32 @@
 		<title>title</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="412E83">
+	<cardCategory row="1" color="7E2431">
 		<title>classic</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="60277F">
+	<cardCategory row="1" color="86691F">
 		<title>jobs</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="8854A4">
+	<cardCategory row="1" color="2F5E4C">
 		<title>game studies</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="1D0E50">
+	<cardCategory row="1" color="553694">
 		<title>storyworlds</title>
 	</cardCategory>
 
-	<cardCategory row="2" color="2B487E">
+	<cardCategory row="2" color="7B4B2A">
 		<title>related</title>
 	</cardCategory>
 
-	<cardCategory row="2" color="0C234E">
+	<cardCategory row="2" color="2A4B8D">
 		<title>narrative mechanics</title>
 	</cardCategory>
 
-	<cardCategory row="2" color="4e0c23">
-		<title>examples</title>
+	<cardCategory row="2" color="5E2C5C">
+		<title>case studies</title>
 	</cardCategory>
 
 </cardCategories>
